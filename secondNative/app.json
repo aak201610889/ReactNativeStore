@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstNative",
-    "slug": "firstNative",
+    "name": "secondNative",
+    "slug": "secondNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
